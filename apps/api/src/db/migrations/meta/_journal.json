@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1784299566195,
+      "tag": "0000_conscious_mysterio",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1785190586994,
+      "tag": "0001_oval_songbird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1785191756063,
+      "tag": "0002_striped_hydra",
+      "breakpoints": true
+    }
+  ]
+}

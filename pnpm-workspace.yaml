@@ -1,0 +1,7 @@
+packages:
+  - 'apps/*'
+  - 'packages/*'
+allowBuilds:
+  core-js: false
+  es5-ext: true
+  esbuild: true
