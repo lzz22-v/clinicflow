@@ -113,7 +113,7 @@ clinic-queue-system/
 ### 1. Clone e instale as dependências
  
 ```bash
-git clone <url-do-repositorio>
+git clone <https://github.com/lzz22-v/clinicflow>
 cd clinic-queue-system
 pnpm install
 ```
